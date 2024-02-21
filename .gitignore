@@ -8,3 +8,7 @@ ECBmicrocontroller/.vscode/settings.json
 ECBmicrocontroller/.vscode/tasks.json
 ECBmicrocontroller/main/CMakeLists.txt
 ECBmicrocontroller/main/main.c
+Microcontroller/build/
+Microcontroller/sdkconfig
+Microcontroller/sdkconfig.old
+Microcontroller/.vscode
